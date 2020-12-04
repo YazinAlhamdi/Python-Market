@@ -1,2 +1,3 @@
-# Market
- First App in Python
+# Python Market
+App in Python
+Copyright for Yazin Alhamdi, yazin.alhamdi@gmail.com 
